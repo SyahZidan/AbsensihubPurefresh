@@ -1,0 +1,12 @@
+.env
+/public/uploads/*.jpg
+/public/uploads/*.jpeg
+/public/uploads/*.png
+/public/uploads/*.webp
+/public/uploads/backups/*.xls
+/public/uploads/backups/*.sql
+/public/uploads/backups/*.zip
+if0_*.sql
+app - Cursor/
+.DS_Store
+Thumbs.db
